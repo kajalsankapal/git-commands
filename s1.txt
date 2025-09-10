@@ -6,6 +6,6 @@ vi filename.txt :- used to create a new file.
  (Esc key + :wq used to go outside from the vi file you have created , vi is just like editor)
 code . :- used to open file on VS code.
 git push :- used to push your file from local m/c to the remote (github).
-git clone "URL name" :- used to make copy of GitHub(or any remote) repo into your local sys.
+git clone "github repo url" :- used to make copy of GitHub(or any remote) repo into your local sys.
 history :- used to get a list of commands which you have been previously used.
 mkdir :- used to create a new directory.
