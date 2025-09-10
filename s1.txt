@@ -1,0 +1,11 @@
+git add . :- used to  tell git which files you want to save in the next commit(to add changes).
+git commit -m :- used to save your changes in git with a message.
+git status :-  used to check current status of your file (which files are changed , staged or not tracked)
+touch filename.txt :- used to create a new file.
+vi filename.txt :- used to create a new file. 
+ (Esc key + :wq used to go outside from the vi file you have created , vi is just like editor)
+code . :- used to open file on VS code.
+git push :- used to push your file from local m/c to the remote (github).
+git clone "URL name" :- used to make copy of GitHub(or any remote) repo into your local sys.
+history :- used to get a list of commands which you have been previously used.
+mkdir :- used to create a new directory.
